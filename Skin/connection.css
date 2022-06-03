@@ -1,0 +1,24 @@
+h3{
+    padding-top: 1%;
+    text-align: center;
+}
+form{
+    background-color: whitesmoke;
+    padding-bottom: 2%;
+    width: 40%;
+    border-radius: 2%;
+    margin: 0 auto;
+    
+}
+input{
+  margin-left: 4%;
+}
+label{
+    margin-top: 8%;
+    margin-left: 4%;
+}
+p{
+  margin-top: 4%;
+  margin-left: 4%;
+}
+

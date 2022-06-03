@@ -1,0 +1,21 @@
+
+#contenu{
+    display: flex;
+    justify-content: center;
+}
+#contenu{
+    margin-top: 4%;
+}
+#resume{
+    margin-top: 10%;
+    width: 100%;
+    max-width: 600px;
+    text-align: justify;
+}
+img{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}

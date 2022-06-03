@@ -1,0 +1,23 @@
+
+#conteurIteams{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 1em;
+    
+}
+.iteam{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-items: center;
+}
+
+img{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
